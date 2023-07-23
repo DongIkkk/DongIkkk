@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=DONG%20IK%20KIM&fontAlign=30&fontSize=30&desc=Hi%20🖐️&descAlign=60&descAlignY=50&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=rect&text=DONG%20IK%20KIM&fontAlign=30&fontSize=30&desc=Hello%20🖐️&descAlign=60&descAlignY=50&theme=tokyonight)
 
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w8h0412)](https://solved.ac/w8h0412)
