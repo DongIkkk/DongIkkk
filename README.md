@@ -5,7 +5,7 @@
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w8h0412)](https://solved.ac/w8h0412)
 -->
- 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongIkkk&layout=compact)](https://github.com/DongIkkk/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongIkkk&show_icons=true&theme=tokyonight)
@@ -14,6 +14,6 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w8h0412)](https://solved.ac/w8h0412)
-
+-->
 
 </div>
